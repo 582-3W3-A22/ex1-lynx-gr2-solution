@@ -1,5 +1,7 @@
 <?php 
+    // Identifiant de la page.
     $page = 'accueil';
+    // Inclure le fichier commun de l'entête du site.
     include('inclusions/entete.inc.php'); 
 ?>
     <section class="principale">
@@ -16,4 +18,7 @@
             <img src="images/accueil.jpg" alt="">
         </div>
     </section>
-<?php include('inclusions/p2p.inc.php'); ?>
+<?php 
+    // Inclure le fichier commun du pied de page du site.
+    include('inclusions/p2p.inc.php'); 
+?>

@@ -1,6 +1,6 @@
 <?php
 // Textes statiques de l'application Lynx
-// FR
+// FR (Français)
 
 /************** META **********************************************************/
 $meta = [
